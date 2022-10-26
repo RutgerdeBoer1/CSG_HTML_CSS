@@ -1,0 +1,35 @@
+body{
+    width: 30px;
+    height: 250px;
+    backgroundcolor: green
+}
+.blauw{
+    width: 250px;
+    height: 125px;;
+    background-color: blue;
+    color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 3px;
+    padding-left: 3px;
+    float: left;
+}
+.groen{
+    width: 125px;
+    height: 100px;
+    background-color: yellow;
+    color: blue;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 3px;
+    padding-left: 3px;
+    float: left;
+}
+.rood{
+    width: 400px;
+    height: 75px;
+    color: cyan;
+    background-color: brown;
+    margin-left: 20px;
+    float: left;
+}
